@@ -1,0 +1,15 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "AoikConsolePanelStartup",
+            "details": "https://github.com/AoiKuiyuyou/AoikConsolePanelStartup-SublimeText",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}

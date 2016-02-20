@@ -1,0 +1,10 @@
+~*
+*.pyc
+*.egg-info
+/*
+!/.gitignore
+!/LICENSE.txt
+!/*.json
+!/*.md
+!/*.py
+!/*.sublime-*

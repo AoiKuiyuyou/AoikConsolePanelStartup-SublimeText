@@ -1,0 +1,14 @@
+// Place your settings in the file
+// "Packages/User/AoikConsolePanelStartup.sublime-settings",
+// which overrides the settings in here.
+{
+    // Enable this plugin
+    "enable": true,
+
+    //  Print debug messages
+    "debug": true,
+
+    // Last setting without an ending comma,
+    // in order for others to always have one.
+    "": ""
+}
